@@ -59,36 +59,30 @@ header img {
   padding-bottom: 64px;
 }
 
-/* members */
-.members {
+/* profile */
+.profile {
   background: #f2f2f2;
 }
 
-.members > h1 {
+.profile > h1 {
   text-align: center;
   padding: 64px 0;
   font-weight: normal;
 }
 
-.members ul {
+.profile {
   list-style: none;
   text-align: center;
   padding-left: 0;
+  padding-bottom: 64px;
   margin: 0
 }
 
-.members img {
+.profile img {
   width: 160px;
   border-radius: 50%;
 }
 
-.members h2 {
-  font-size: 20px;
-}
-
-.members li {
-  padding-bottom: 64px;
-}
 
 /* Call to action */
 .call-to-action {
